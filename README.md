@@ -1,5 +1,5 @@
 # BodyMotion
-IMU based capture suite
+IMU based capture suit
 
 IO used a ESP8266 board for the code
 the WEMOS d1 Mini Pro offers additional lipo battery shields https://wiki.wemos.cc/products:d1_mini_shields:battery_shield
