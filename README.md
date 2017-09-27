@@ -6,5 +6,5 @@ the WEMOS d1 Mini Pro offers additional lipo battery shields https://wiki.wemos.
 
 https://wiki.wemos.cc/products:d1:d1_mini_pro
 
-
-for the imu I used the cheap DMP6050 board like this https://playground.arduino.cc/Main/MPU-6050 
+for the main IMU and reference I used a BNO055 module https://learn.adafruit.com/adafruit-bno055-absolute-orientation-sensor/overview 
+for the additional imus I used 2 of the cheap DMP6050 boards like this https://playground.arduino.cc/Main/MPU-6050 
